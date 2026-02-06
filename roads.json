@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Silk Board Junction", "lat": 12.917700, "lng": 77.623800, "score": 90 },
+  { "id": 2, "name": "KR Puram Bridge", "lat": 13.000500, "lng": 77.697400, "score": 85 },
+  { "id": 3, "name": "Hebbal Flyover", "lat": 13.035800, "lng": 77.597000, "score": 80 },
+  { "id": 4, "name": "Marathahalli Bridge", "lat": 12.956900, "lng": 77.701100, "score": 88 },
+  { "id": 5, "name": "Madiwala Checkpost", "lat": 12.917200, "lng": 77.610000, "score": 75 },
+  { "id": 6, "name": "Sample Low Risk", "lat": 12.950000, "lng": 77.580000, "score": 25 }
+]
